@@ -1,0 +1,1 @@
+{"name":"swinfo","version":"1.0.0","dependencies":{"raspberrypi-liquid-crystal":{"version":"1.15.0","dependencies":{"i2c-bus":{"version":"5.2.1","dependencies":{"bindings":{"version":"1.5.0","dependencies":{"file-uri-to-path":{"version":"1.0.0"}}},"nan":{"version":"2.14.2"}}},"sleep":{"version":"6.3.0","dependencies":{"nan":{"version":"2.14.2"}}}}}}}
